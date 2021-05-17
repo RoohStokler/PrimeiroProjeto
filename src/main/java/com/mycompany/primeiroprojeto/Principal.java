@@ -10,6 +10,7 @@ package com.mycompany.primeiroprojeto;
  * @author Stokler
  */
 public class Principal {
+    //Método principal
     public static void main(String[] args) {
         
     }
